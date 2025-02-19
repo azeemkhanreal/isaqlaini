@@ -1,10 +1,10 @@
-# Saqlain Miyan App
+# iSaqlaini App
 
 _A spiritual and community-driven platform for Murids and followers of Saqlain Miyan_
 
 ## 📖 About the App
 
-Saqlain Miyan App is a dedicated digital platform for followers of **Saqlain Miyan**, a revered Sufi saint of the **Naqshbandi Silsila**. This app brings Murids together, providing spiritual teachings, live discourses, community discussions, and charitable initiatives like Langar and mass marriage programs.
+iSaqlaini is a dedicated digital platform for followers of **Saqlain Miyan**, a revered Sufi saint of the **Naqshbandi Silsila**. This app brings Murids together, providing spiritual teachings, live discourses, community discussions, and charitable initiatives like Langar and mass marriage programs.
 
 With a blend of **tradition and technology**, this app ensures that the teachings and legacy of Saqlain Miyan remain accessible to all.
 
@@ -47,8 +47,8 @@ If you want to contribute or test the app locally, follow these steps:
 #### **1️⃣ Clone the Repository**
 
 ```bash
-git clone https://github.com/your-repo/saqlain-miyan-app.git
-cd saqlain-miyan-app
+git clone https://github.com/azeemkhanreal/isaqlaini.git
+cd isaqlaini
 2️⃣ Install Dependencies
 bash
 Copy
